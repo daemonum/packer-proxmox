@@ -1,0 +1,13 @@
+# Packer build output
+output-*/
+packer_cache/
+crash.log
+
+# Legacy Packer files
+*.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
